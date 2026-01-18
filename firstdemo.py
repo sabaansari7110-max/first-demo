@@ -7,4 +7,6 @@ print(numbers[0])
 #print last element 
 print(numbers[-1])
 
-
+output:-
+54
+90
