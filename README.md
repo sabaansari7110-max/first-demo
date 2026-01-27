@@ -1,9 +1,12 @@
 # Print First and Last Element of a List.
 
-#Description
+Description
+<br>
 This program print the first and last element fro a given list.
 
-How to Run
+How to Run:
+<br>
+1.Install Python 
 <br>
 2.Downloand the file
 <br>
