@@ -1,15 +1,15 @@
 # Print First and Last Element of a List.
 
 #Description
-<br>
 This program print the first and last element fro a given list.
 
 #How to Run
 1. Instal Python
-   <br>
+<br>
 2.Downloand the file
 <br>
 3.Run:
+<br>
 Python firstddemo.py
 
 #Example output
