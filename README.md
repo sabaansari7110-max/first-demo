@@ -1,6 +1,6 @@
 # Print First and Last Element of a List.
 
-Description
+Description:
 <br>
 This program print the first and last element fro a given list.
 
@@ -15,7 +15,7 @@ How to Run:
 Python firstddemo.py
 
 
-Example output
+Example output:
 <br>
 numbers= [10, 20, 30, 40]
 <br>
