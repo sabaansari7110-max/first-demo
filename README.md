@@ -5,13 +5,12 @@ This program print the first and last element fro a given list.
 
 How to Run
 <br>
-1. Instal Python
-<br>
 2.Downloand the file
 <br>
 3.Run:
 <br>
 Python firstddemo.py
+
 
 Example output
 <br>
