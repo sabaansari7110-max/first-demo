@@ -16,12 +16,12 @@ Python firstddemo.py
 
 
 # Example output:
-<br>
+
+```python
 numbers= [10, 20, 30, 40]
-<br>
 first element:10
-<br>
 last element:40
+```
 
 # What I Learned-
 <br>
