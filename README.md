@@ -1,9 +1,9 @@
 # Print First and Last Element of a List.
 
-# Description:
+## Description:
 This program print the first and last element from a given list.
 
-# How to Run:
+## How to Run:
 <br>
 1.Install Python 
 <br>
@@ -14,7 +14,7 @@ This program print the first and last element from a given list.
 Python firstddemo.py
 
 
-# Example output:
+## Example output:
 
 ```python
 numbers= [10, 20, 30, 40]
@@ -22,7 +22,7 @@ first element:10
 last element:40
 ```
 
-# What I Learned-
+## What I Learned-
 <br>
 1.how to access list elements using indexing
 <br>
